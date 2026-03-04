@@ -198,28 +198,5 @@ Advanced retrieval evaluation
 Vijay Vempati  
 Data Engineer | AI Systems Builder
 
-Next Step (Very Important)
-
-Add a diagram image to make the README even more impressive.
-
-You can create a diagram like this:
-
-User
- ↓
-Streamlit UI
- ↓
-Document Upload
- ↓
-Chunking
- ↓
-Embeddings
- ↓
-Vector Database
- ↓
-Retriever
- ↓
-LLM
- ↓
-Answer
 
 
